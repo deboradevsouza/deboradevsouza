@@ -17,11 +17,11 @@
 </p>
 
 <p align="left">
-  🖖 Curiosidades: Curso faculdade de Análise e Dsenvolvimento de Sistemas, faço arte para jogos, sou apaixonada por criar modelos em 3D e aquarela. 
+  🖖 Curiosidades: Curso faculdade de Análise e Desenvolvimento de Sistemas, faço arte para jogos, sou apaixonada por criar modelos em 3D e aquarela. 
 </p>
 
 <p align="left">
-[![deboradevsouza](https://github-readme-stats.vercel.app/api/top-langs/?username=deboradevsouza&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![deboradevsouza](https://github-readme-stats.vercel.app/api/top-langs/deboradevsouza&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="left">
