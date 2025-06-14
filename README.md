@@ -1,5 +1,5 @@
-<img src="[https://ibb.co/GvpgCPzy](https://i.imgur.com/lLfmGSw.jpeg)" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-![imagem de um computador](https://i.imgur.com/lLfmGSw.jpeg)
+<img src="" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 
 <p align="left"> 
