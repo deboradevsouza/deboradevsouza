@@ -1,6 +1,4 @@
-<img src="" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-
+<img src="computador_3D.PNG" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Desenvolvedora Frontend em formação com experiência em recrutamento tech para empresas internacionais e professora de inglês corporativo.
@@ -11,7 +9,7 @@
 </p>
 
 <p align="left">
-  🧠 Aprendendo: React.js & Vue.js
+  🌱 Aprendendo: React.js & Vue.js
 </p>
 
 <p align="left">
@@ -19,7 +17,11 @@
 </p>
 
 <p align="left">
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deboradevsouza&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  🖖 Curiosidades: Curso faculdade de Análise e Dsenvolvimento de Sistemas, faço arte para jogos, sou apaixonada por criar modelos em 3D e aquarela. 
+</p>
+
+<p align="left">
+[![deboradevsouza](https://github-readme-stats.vercel.app/api/top-langs/?username=deboradevsouza&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="left">
