@@ -1,6 +1,6 @@
 <img src="computador_3D.PNG" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-##Débora de Souza
+<h1>Débora de Souza</h1>
 
 <p align="left"> 
   Desenvolvedora Frontend em formação com experiência em recrutamento tech para empresas internacionais e professora de inglês corporativo.
