@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-[![deboradevsouza](https://github-readme-stats.vercel.app/api/top-langs/deboradevsouza&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![deboradevsouza](https://github-readme-stats.vercel.app/api/top-langs/deboradevsouza&hide=html&layout=compact&theme=default)](https://github.com/deboradevsouza/github-readme-stats)
 </p>
 
 <p align="left">
